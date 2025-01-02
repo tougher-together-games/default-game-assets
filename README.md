@@ -1,2 +1,2 @@
 # default-game-assets
-Assets used in most Tougher Together Games.
+Default game assets like maps, tokens, and handouts used in nearly all games.
